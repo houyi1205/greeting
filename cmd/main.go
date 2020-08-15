@@ -3,8 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"greeting"
 	"time"
+
+	"github.com/houyi1205/greeting"
 )
 
 func main() {
